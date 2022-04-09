@@ -1,7 +1,7 @@
 ; RIP packer decompressor Intel 8080 version by Ivan Gorodetsky (2022-04-09)
 ; Based on Z80 version by Roman Petrov
 
-; 1. Compress files with RIP packer by by Eugene Larchenko (https://gitlab.com/eugene77/rip)
+; 1. Compress files with RIP packer by Eugene Larchenko (https://gitlab.com/eugene77/rip)
 ; RIP infile compressedfile
 ;
 ; 2. Reverse bitstream, for example with bitrev.exe by Alexandr Sarkansky (https://github.com/usr38259/bitrev-cli)
